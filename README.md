@@ -1,7 +1,3 @@
-### How to View the Data
-
-
-
 
 
 # Install pip
