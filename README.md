@@ -1,7 +1,7 @@
 
 
 # Install pip
-Inside Terminal:
+Inside Terminal/powershell:
 
 Windows:
 ```
