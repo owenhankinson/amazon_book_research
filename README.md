@@ -1,6 +1,8 @@
 
 
 # Install pip
+Inside Terminal:
+
 Windows:
 ```
 py get-pip.py
