@@ -1,10 +1,12 @@
-# How to View the Data
+
 
 
 
 
 
 # Install pip
+Inside Terminal/powershell:
+
 Windows:
 ```
 py get-pip.py
